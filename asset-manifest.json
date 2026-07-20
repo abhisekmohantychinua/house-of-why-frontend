@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/house-of-why-frontend/static/css/main.90d9479c.css",
+    "main.js": "/house-of-why-frontend/static/js/main.a434bfdc.js",
+    "index.html": "/house-of-why-frontend/index.html",
+    "main.90d9479c.css.map": "/house-of-why-frontend/static/css/main.90d9479c.css.map",
+    "main.a434bfdc.js.map": "/house-of-why-frontend/static/js/main.a434bfdc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90d9479c.css",
+    "static/js/main.a434bfdc.js"
+  ]
+}
