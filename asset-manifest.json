@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/house-of-why-frontend/static/css/main.90d9479c.css",
-    "main.js": "/house-of-why-frontend/static/js/main.a434bfdc.js",
-    "index.html": "/house-of-why-frontend/index.html",
-    "main.90d9479c.css.map": "/house-of-why-frontend/static/css/main.90d9479c.css.map",
-    "main.a434bfdc.js.map": "/house-of-why-frontend/static/js/main.a434bfdc.js.map"
+    "main.css": "/static/css/main.90d9479c.css",
+    "main.js": "/static/js/main.a434bfdc.js",
+    "index.html": "/index.html",
+    "main.90d9479c.css.map": "/static/css/main.90d9479c.css.map",
+    "main.a434bfdc.js.map": "/static/js/main.a434bfdc.js.map"
   },
   "entrypoints": [
     "static/css/main.90d9479c.css",
